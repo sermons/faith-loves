@@ -9,9 +9,9 @@
 ---
 <span class="ref">(Jam 2:5)</span>
 Listen, my dear brothers and sisters: <br/>
-Has not God **chosen**
+Has not God **chosen** those who are
 
-those who are **poor** in the eyes of the world <br/>
+**poor** in the eyes of the world <br/>
 to be **rich in faith**
 
 and to inherit the **kingdom** <br/>
