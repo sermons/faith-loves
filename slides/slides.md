@@ -11,15 +11,15 @@
 Listen, my dear brothers and sisters: <br/>
 Has not God **chosen**
 
-those who are **poor** in the eyes of the world
+those who are **poor** in the eyes of the world <br/>
+to be **rich in faith**
 
-to be **rich in faith** and to inherit <br/>
-the **kingdom** he promised those who **love** him?
+and to inherit the **kingdom** <br/>
+he promised those who **love** him?
 
 ---
 <span class="ref">6</span>
-But you have **dishonored** the poor.
-
+But you have **dishonored** the poor. <br/>
 Is it not the rich who are **exploiting** you?
 
 Are they not the ones <br/>
@@ -39,7 +39,8 @@ you are doing right.
 
 <span class="ref">9</span>
 But if you show **favoritism**, <br/>
-you **sin** and are convicted by the law as **lawbreakers**.
+you **sin** and are convicted <br/>
+by the law as **lawbreakers**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
