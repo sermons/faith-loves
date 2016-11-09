@@ -1,13 +1,13 @@
 {
-  "name": "reveal-skel",
+  "name": "@sermons/faith-loves",
   "version": "1.0.0",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
-  "keywords": ["slides", "lectures", "talks", "ppt"],
+  "repository": "sermons/faith-loves",
+  "description": "Jam2:5-9, Faith that Loves Impartially",
+  "keywords": ["slides", "sermon", "talks", "ppt"],
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
-    "pretty_url": "reveal-skel.seanho.com",
-    "cname": "reveal-skel.seanho.com",
+    "pretty_url": "faith-loves.seanho.com",
+    "cname": "faith-loves.seanho.com",
     "multiplex": {
       "url": "https://mp-seanho00.rhcloud.com:8443/",
       "id": "22bc761ffc97809b"
@@ -18,9 +18,9 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01"
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Coquitlam",
+        "date": "2016-11-13"
       }
     ]
   },
