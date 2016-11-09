@@ -1,5 +1,10 @@
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
 # Faith that <br/> Loves Impartially
 ## James 2:5-9
+
+---
+<!-- .slide: class="Q" data-background="white" -->
+# Q0
 
 ---
 <span class="ref">(Jam 2:5)</span>
@@ -35,3 +40,13 @@ you are doing right.
 <span class="ref">9</span>
 But if you show **favoritism**, <br/>
 you **sin** and are convicted by the law as **lawbreakers**.
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
+## Faith that Loves Impartially
+1. **Poor** to the world <span class="ref">(v5)</span>
+2. **Oppressive** rich <span class="ref">(v6-7)</span>
+3. **Royal Law** <span class="ref">(v8-9)</span>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" class="empty" -->
