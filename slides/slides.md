@@ -50,4 +50,21 @@ by the law as **lawbreakers**.
 3. **Royal Law** <span class="ref">(v8-9)</span>
 
 ---
+<span class="ref">(2:2)</span>
+Suppose a man comes into your meeting <br/>
+wearing a gold ring and fine clothes, <br/>
+and a poor man in filthy old clothes also comes in.
+
+---
+<span class="ref">(2:5)</span>
+Listen, my dear brothers and sisters: <br/>
+Has not God **chosen** those who are
+
+**poor** in the eyes of the world <br/>
+to be **rich in faith**
+
+and to inherit the **kingdom** <br/>
+he promised those who **love** him?
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" class="empty" -->
