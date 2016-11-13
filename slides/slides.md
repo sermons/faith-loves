@@ -146,18 +146,35 @@ who are dragging you into **court**?
 + *court*: legalism, assume in the **right**, seek full **punishment** of law
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Lemieux-Westboro.jpg" -->
 <span class="ref">7</span>
 Are they not the ones <br/>
 who are **blaspheming** the noble name <br/>
 of him to whom you belong?
 
+<div class="caption">
+(img &copy; [John Lemieux](https://www.flickr.com/photos/newdimensionfilms/4024249139), CC-BY-2.0)
+</div>
+
 >>>
-+ either: claim Christian, slander in action
-+ or: mock Christians
++ either: **claim** Christian
+  + but **slander** in action
++ or: **mock** Christians, **attack** God
++ Westboro Baptist cult in Kansas
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
+<span class="ref">(Micah 6:8)</span>
+And what does the Lord **require** of you?
+
+To **act justly** and to **love mercy** <br/>
+and to **walk humbly** with your God.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q2
+# Do I assert **power**,
+# seek to **punish** others,
+# or **slander** God's name?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
