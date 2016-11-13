@@ -27,6 +27,24 @@
 + Donald Trump $3.7B
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+## James: **Keep the Faith**
++ Stands the **Test** <span class="ref">(1:2-12)</span>
++ Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
++ Loves **Impartially** <span class="ref">(2:5-9)</span>
+
+>>>
++ Stands the *Test*:
+  + **Joy** in Trials
+  + **Wisdom** Given Generously
+  + **Boasting** in Our Weakness
++ Change of *Heart*:
+  + Shun **Anger**
+  + **Accept** the Word
+  + **Act**, Don't Just Listen
+  + **Abide** and Obey
+
+---
 <span class="ref">(Jam 2:5)</span>
 Listen, my dear brothers and sisters: <br/>
 Has not God **chosen** those who are
@@ -88,6 +106,10 @@ also comes in.
 <span class="ref">(2:5)</span>
 Has not God **chosen** those who are <br/>
 **poor** in the eyes of the world
+
+>>>
++ lit.: "poor to the world"
+  + according to world's **standard**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
