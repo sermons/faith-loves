@@ -8,10 +8,13 @@
 
 <div class="imgbox"><div>
 ![Bill Gates](https://sermons.seanho.com/img/fig/Bill_Gates_June_2015.jpg)
+<!-- .element: class="fragment" data-fragment-index="1" -->
 </div><div>
 ![Rupert and Wendi Murdoch](https://sermons.seanho.com/img/fig/Rupert_Wendi_Murdoch_2011.jpg)
+<!-- .element: class="fragment" data-fragment-index="2" -->
 </div><div>
 ![Donald Trump](https://sermons.seanho.com/img/fig/Donald_Trump_by_Gage_Skidmore_10.jpg)
+<!-- .element: class="fragment" data-fragment-index="3" -->
 </div></div>
 
 >>>
@@ -63,7 +66,7 @@ by the law as **lawbreakers**.
 3. **Law** of the King <span class="ref">(v8-9)</span>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Paola-Beggar_with_Lyra.jpg" -->
 <span class="ref">(2:2)</span>
 Suppose a man comes into your **meeting** <br/>
 wearing a **gold** ring and **fine clothes**,
@@ -77,7 +80,7 @@ also comes in.
   + ancient Greeks saw as morally **inferior**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
 <span class="ref">(2:5)</span>
 Has not God **chosen** those who are <br/>
 **poor** in the eyes of the world
@@ -90,12 +93,16 @@ he promised those who **love** him?
 + *faith*: trust in God's **promises**
   + **depend** on God's grace
   + and **love** Him for faithfulness
-+ *kingdom*:
++ *kingdom*: who did Jesus promise it to?
 
 ---
-<span class="ref">(2:5)</span>
-kingdom of God belongs to such as these
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
+<span class="ref">(Mark 10:14)</span>
+Let the **little children** come to me, <br/>
+for the **kingdom of God** belongs to such as these.
 
+>>>
+humble self like little child
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
