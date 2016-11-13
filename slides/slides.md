@@ -171,14 +171,16 @@ who are dragging you into **court**?
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Lemieux-Westboro.jpg" -->
 <span class="ref">7</span>
 Are they not the ones <br/>
-who are **blaspheming** the noble name <br/>
-of him to whom you belong?
+who are **blaspheming** the noble **name** <br/>
+of Him to whom you belong?
 
 <div class="caption">
 (img &copy; [John Lemieux](https://www.flickr.com/photos/newdimensionfilms/4024249139), CC-BY-2.0)
 </div>
 
 >>>
++ "the good name by which we were named"
+  + (Ac15:17) Gentiles who bear My Name
 + either: **claim** Christian
   + but **slander** in action
 + or: **mock** Christians, **attack** God
@@ -275,8 +277,8 @@ by the **law** that gives **freedom**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
-<span class="ref">13</span>
-**Mercy** triumphs over **judgment**!
+<span class="ref">(Rom 13:10)</span>
+Therefore **love** is the **fulfillment** of the law.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" class="empty" -->
