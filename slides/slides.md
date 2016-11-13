@@ -106,7 +106,13 @@ humble self like little child
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q1
+# Who is ~~successful~~
+# rich in **faith**?
+
+>>>
++ what good is faith? 
+  + does it pay the bills? 
++ inherit kingdom of God
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
@@ -123,11 +129,20 @@ Is it not the rich who are **exploiting** you?
 Are they not the ones <br/>
 who are dragging you into **court**?
 
+>>>
++ *exploit*: lord over, assert power (dynasty) from above
++ *drag*: as a net of fish, unwillingly
++ *court*: legalism, assume in the **right**, seek full **punishment** of law
+
 ---
 <span class="ref">7</span>
 Are they not the ones <br/>
 who are **blaspheming** the noble name <br/>
 of him to whom you belong?
+
+>>>
++ either: claim Christian, slander in action
++ or: mock Christians
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -166,9 +181,23 @@ Therefore love is the **fulfillment** of the law.
 **Speak** and **act** as those who will be judged <br/>
 by the **law** that gives **freedom**
 
+>>>
++ judgment w/o mercy on those
+  + who have not been merciful
+
+---
+<span class="ref">13</span>
+**Mercy** triumphs over **judgment**!
+
+>>>
++ legalism futile, endless
++ love fulfills law
++ objective: mercy
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q3
+# If I want **God's** mercy,
+# do I **show** mercy? 
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" class="empty" -->
