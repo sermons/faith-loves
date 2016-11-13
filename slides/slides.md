@@ -200,6 +200,10 @@ and to **walk humbly** with your God.
 ## seek to **punish** others,
 ## or **slander** God's name?
 
+>>>
++ do I **myself**, or
+  + **admire** those who do?
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
 ## Faith that Loves Impartially
@@ -277,7 +281,7 @@ by the **law** that gives **freedom**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
-<span class="ref">(Rom 13:10)</span>
+<span class="ref">(Rom 13:10)</span><br/>
 Therefore **love** is the **fulfillment** of the law.
 
 ---
