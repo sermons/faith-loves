@@ -2,6 +2,10 @@
 # Faith that <br/> Loves Impartially
 ## James 2:5-9
 
+>>>
++ *impartially*: without **favouritism**
++ love all people **equally**
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # Who is **successful**?
@@ -110,8 +114,8 @@ humble self like little child
 # rich in **faith**?
 
 >>>
-+ what good is faith? 
-  + does it pay the bills? 
++ what good is faith?
+  + does it pay the bills?
 + inherit kingdom of God
 
 ---
@@ -122,6 +126,7 @@ humble self like little child
 3. Law of the King <span class="ref">(v8-9)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
 <span class="ref">6</span>
 But you have **dishonored** the poor. <br/>
 Is it not the rich who are **exploiting** you?
@@ -156,13 +161,22 @@ of him to whom you belong?
 3. **Law of the King** <span class="ref">(v8-9)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Giovane-Washing_of_the_Feet.jpg" -->
 <span class="ref">8</span>
 If you really keep  <br/>
 the **royal law** found in Scripture, <br/>
 “**Love your neighbor** as yourself,” <br/>
 you are doing right.
 
+>>>
++ *royal*: of the King
+  + **authority** of Lord
+  + **emulate** God's love
++ Washing disciples' feet
+  + set **example**
+
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
 <span class="ref">(Rom 13:9-10)</span>
 The commandments, <br/>
 “You shall not commit **adultery**,” <br/>
@@ -177,6 +191,7 @@ Love does **no harm** to a neighbor. <br/>
 Therefore love is the **fulfillment** of the law.
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
 <span class="ref">12</span>
 **Speak** and **act** as those who will be judged <br/>
 by the **law** that gives **freedom**
@@ -186,6 +201,7 @@ by the **law** that gives **freedom**
   + who have not been merciful
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DLwUVlzrP0Q-waves_rocks.jpg" -->
 <span class="ref">13</span>
 **Mercy** triumphs over **judgment**!
 
@@ -197,7 +213,12 @@ by the **law** that gives **freedom**
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # If I want **God's** mercy,
-# do I **show** mercy? 
+# do I **show** mercy?
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
+<span class="ref">13</span>
+**Mercy** triumphs over **judgment**!
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" class="empty" -->
