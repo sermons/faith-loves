@@ -4,10 +4,20 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q0
+# Who is **successful**?
+
+<div class="imgbox"><div>
+![Bill Gates](https://sermons.seanho.com/img/fig/Bill_Gates_June_2015.jpg)
+</div><div>
+![Rupert and Wendi Murdoch](https://sermons.seanho.com/img/fig/Rupert_Wendi_Murdoch_2011.jpg)
+</div><div>
+![Donald Trump](https://sermons.seanho.com/img/fig/Donald_Trump_by_Gage_Skidmore_10.jpg)
+</div></div>
 
 >>>
-successful: Bill Gates, Warren Buffett, Trump
++ Bill Gates $81B
++ Rupert Murdoch $12B (Wendi Deng)
++ Donald Trump $3.7B
 
 ---
 <span class="ref">(Jam 2:5)</span>
@@ -48,11 +58,12 @@ by the law as **lawbreakers**.
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
 ## Faith that Loves Impartially
-1. **Poor** to the world <span class="ref">(v5)</span>
-2. **Oppressive** rich <span class="ref">(v6-7)</span>
-3. **Royal Law** <span class="ref">(v8-9)</span>
+1. **Faith** of the Poor <span class="ref">(v5)</span>
+2. **Pride** of the Rich <span class="ref">(v6-7)</span>
+3. **Law** of the King <span class="ref">(v8-9)</span>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
 <span class="ref">(2:2)</span>
 Suppose a man comes into your **meeting** <br/>
 wearing a **gold** ring and **fine clothes**,
@@ -60,23 +71,42 @@ wearing a **gold** ring and **fine clothes**,
 and a **poor** man in **filthy** old clothes <br/>
 also comes in.
 
+>>>
++ *poor*: beggar, **dependent** on charity
+  + vs **hardworking** but poor
+  + ancient Greeks saw as morally **inferior**
+
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
 <span class="ref">(2:5)</span>
-Listen, my dear brothers and sisters: <br/>
-Has not God **chosen** those who are
+Has not God **chosen** those who are <br/>
+**poor** in the eyes of the world
 
-**poor** in the eyes of the world <br/>
-to be **rich in faith**
-
+to be **rich in faith** <br/>
 and to inherit the **kingdom** <br/>
 he promised those who **love** him?
+
+>>>
++ *faith*: trust in God's **promises**
+  + **depend** on God's grace
+  + and **love** Him for faithfulness
++ *kingdom*:
+
+---
+<span class="ref">(2:5)</span>
+kingdom of God belongs to such as these
+
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # Q1
 
 ---
-## Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
+## Faith that Loves Impartially
+1. Faith of the Poor <span class="ref">(v5)</span>
+2. **Pride of the Rich** <span class="ref">(v6-7)</span>
+3. Law of the King <span class="ref">(v8-9)</span>
 
 ---
 <span class="ref">6</span>
@@ -97,7 +127,11 @@ of him to whom you belong?
 # Q2
 
 ---
-## Outline
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
+## Faith that Loves Impartially
+1. Faith of the Poor <span class="ref">(v5)</span>
+2. Pride of the Rich <span class="ref">(v6-7)</span>
+3. **Law of the King** <span class="ref">(v8-9)</span>
 
 ---
 <span class="ref">8</span>
@@ -107,33 +141,18 @@ the **royal law** found in Scripture, <br/>
 you are doing right.
 
 ---
-<span class="ref">(Rom 13:8)</span>
-Let no debt remain outstanding,  <br/>
-except the continuing debt to love one another, <br/>
-for whoever loves others has fulfilled the law.
-
----
 <span class="ref">(Rom 13:9-10)</span>
 The commandments, <br/>
-“You shall not commit adultery,” <br/>
-“You shall not murder,” “You shall not steal,” <br/>
-“You shall not covet,” <br/>
-and whatever other command there may be,
+“You shall not commit **adultery**,” <br/>
+“You shall not **murder**,” “You shall not **steal**,” <br/>
+“You shall not **covet**,” <br/>
+and whatever other **command** there may be,
 
 are summed up in this one command: <br/>
-“Love your neighbor as yourself.”
+“**Love your neighbor as yourself**.”
 
-Love does no harm to a neighbor. <br/>
-Therefore love is the fulfillment of the law.
-
----
-<span class="ref">9</span>
-But if you show **favoritism**, <br/>
-you **sin** and are convicted <br/>
-by the law as **lawbreakers**.
-
----
-## Outline
+Love does **no harm** to a neighbor. <br/>
+Therefore love is the **fulfillment** of the law.
 
 ---
 <span class="ref">12</span>
