@@ -6,6 +6,9 @@
 <!-- .slide: class="Q" data-background="white" -->
 # Q0
 
+>>>
+successful: Bill Gates, Warren Buffett, Trump
+
 ---
 <span class="ref">(Jam 2:5)</span>
 Listen, my dear brothers and sisters: <br/>
@@ -102,6 +105,26 @@ If you really keep  <br/>
 the **royal law** found in Scripture, <br/>
 “**Love your neighbor** as yourself,” <br/>
 you are doing right.
+
+---
+<span class="ref">(Rom 13:8)</span>
+Let no debt remain outstanding,  <br/>
+except the continuing debt to love one another, <br/>
+for whoever loves others has fulfilled the law.
+
+---
+<span class="ref">(Rom 13:9-10)</span>
+The commandments, <br/>
+“You shall not commit adultery,” <br/>
+“You shall not murder,” “You shall not steal,” <br/>
+“You shall not covet,” <br/>
+and whatever other command there may be,
+
+are summed up in this one command: <br/>
+“Love your neighbor as yourself.”
+
+Love does no harm to a neighbor. <br/>
+Therefore love is the fulfillment of the law.
 
 ---
 <span class="ref">9</span>
