@@ -160,7 +160,7 @@ But you have **dishonored** the poor. <br/>
 Is it not the rich who are **exploiting** you?
 
 Are they not the ones <br/>
-who are dragging you into **court**?
+who are **dragging** you into **court**?
 
 >>>
 + *exploit*: lord over, assert power (dynasty) from above
