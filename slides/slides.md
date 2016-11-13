@@ -89,7 +89,11 @@ also comes in.
 Has not God **chosen** those who are <br/>
 **poor** in the eyes of the world
 
-to be **rich in faith** <br/>
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
+<span class="ref">(2:5)</span>
+to be **rich in faith**
+
 and to inherit the **kingdom** <br/>
 he promised those who **love** him?
 
@@ -103,7 +107,7 @@ he promised those who **love** him?
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
 <span class="ref">(Mark 10:14)</span>
 Let the **little children** come to me, <br/>
-for the **kingdom of God** belongs to such as these.
+for the **kingdom of God** belongs to such
 
 >>>
 humble self like little child
@@ -112,11 +116,13 @@ humble self like little child
 <!-- .slide: class="Q" data-background="white" -->
 # Who is ~~successful~~
 # rich in **faith**?
+<!-- .element: class="fragment" data-fragment-index="1" -->
 
 >>>
-+ what good is faith?
-  + does it pay the bills?
-+ inherit kingdom of God
++ what **use** is faith?
+  + does it pay the **bills**?
++ inherit **kingdom** of God
+  + greater worth than **gold**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
@@ -177,18 +183,31 @@ you are doing right.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
-<span class="ref">(Rom 13:9-10)</span>
-The commandments, <br/>
+<span class="ref">(Rom 13:9)</span>
+The commandments,
+
 “You shall not commit **adultery**,” <br/>
-“You shall not **murder**,” “You shall not **steal**,” <br/>
-“You shall not **covet**,” <br/>
+“You shall not **murder**,” <br/>
+“You shall not **steal**,” <br/>
+“You shall not **covet**,”
+
 and whatever other **command** there may be,
 
+>>>
++ Keep track of all the **rules**
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
+<span class="ref">(Rom 13:10)</span>
 are summed up in this one command: <br/>
 “**Love your neighbor as yourself**.”
 
 Love does **no harm** to a neighbor. <br/>
 Therefore love is the **fulfillment** of the law.
+
+>>>
++ **Greatest** commandment?
+  + Love **God**, love **others**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
@@ -212,7 +231,7 @@ by the **law** that gives **freedom**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# If I want **God's** mercy,
+# If I want <br/> **God's** mercy,
 # do I **show** mercy?
 
 ---
