@@ -183,6 +183,7 @@ of Him to whom you belong?
   + (Ac15:17) Gentiles who bear My Name
 + either: **claim** Christian
   + but **slander** in action
+  + **projected** testimony before others
 + or: **mock** Christians, **attack** God
 + Westboro Baptist cult in Kansas
 
@@ -198,7 +199,7 @@ and to **walk humbly** with your God.
 <!-- .slide: class="Q" data-background="white" -->
 ## Do I assert **power**,
 ## seek to **punish** others,
-## or **slander** God's name?
+## or **project** slander to God's name?
 
 >>>
 + do I **myself**, or
