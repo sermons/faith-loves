@@ -6,6 +6,9 @@
 <!-- .slide: class="Q" data-background="white" -->
 # Q0
 
+>>>
+successful: Bill Gates, Warren Buffett, Trump
+
 ---
 <span class="ref">(Jam 2:5)</span>
 Listen, my dear brothers and sisters: <br/>
