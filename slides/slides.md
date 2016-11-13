@@ -113,8 +113,9 @@ by the law as **lawbreakers**.
 ## Outline
 
 ---
-Speak and act as those who will be judged <br/>
-by the law that gives freedom ...
+<span class="ref">12</span>
+**Speak** and **act** as those who will be judged <br/>
+by the **law** that gives **freedom**
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
