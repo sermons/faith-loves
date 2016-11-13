@@ -199,7 +199,7 @@ and to **walk humbly** with your God.
 <!-- .slide: class="Q" data-background="white" -->
 ## Do I assert **power**,
 ## seek to **punish** others,
-## or **project** slander to God's name?
+## or **project** slander <br/> to God's name?
 
 >>>
 + do I **myself**, or
