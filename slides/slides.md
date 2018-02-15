@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
+<!-- .slide: <%= bg("unsplash-Ds0ZIA5gzc4-love_neighbor.jpg") %> id="title" -->
 # Faith that <br/> Loves Impartially
 ## James 2:5-9
 
@@ -27,11 +27,11 @@
 + Donald Trump $3.7B
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-6cY-FvMlmkQ-mtn_cross.jpg" -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
 ## James: **Keep the Faith**
-+ Stands the **Test** <span class="ref">(1:2-12)</span>
-+ Demands a **Change** of Heart <span class="ref">(1:19-25)</span>
-+ Loves **Impartially** <span class="ref">(2:5-9)</span>
++ Stands the **Test** [(1:2-12)](# "ref")
++ Demands a **Change** of Heart [(1:19-25)](# "ref")
++ Loves **Impartially** [(2:5-9)](# "ref")
 
 >>>
 + Stands the *Test*:
@@ -45,7 +45,6 @@
   + **Abide** and Obey
 
 ---
-<span class="ref">(Jam 2:5)</span>
 Listen, my dear brothers and sisters: <br/>
 Has not God **chosen** those who are
 
@@ -55,46 +54,53 @@ to be **rich in faith**
 and to inherit the **kingdom** <br/>
 he promised those who **love** him?
 
+[James 2:5 (NIV) (p.1/3)](# "ref")
+
 ---
-<span class="ref">6</span>
+[6](# "ref")
 But you have **dishonored** the poor. <br/>
 Is it not the rich who are **exploiting** you?
 
 Are they not the ones <br/>
 who are dragging you into **court**?
 
-<span class="ref">7</span>
+[7](# "ref")
 Are they not the ones <br/>
 who are **blaspheming** the noble name <br/>
 of him to whom you belong?
 
+[James 2:6-7 (NIV) (p.2/3)](# "ref")
+
 ---
-<span class="ref">8</span>
+[8](# "ref")
 If you really keep  <br/>
 the **royal law** found in Scripture, <br/>
 “**Love your neighbor** as yourself,” <br/>
 you are doing right.
 
-<span class="ref">9</span>
+[9](# "ref")
 But if you show **favoritism**, <br/>
 you **sin** and are convicted <br/>
 by the law as **lawbreakers**.
 
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
-## Faith that Loves Impartially
-1. **Faith** of the Poor <span class="ref">(v5)</span>
-2. **Pride** of the Rich <span class="ref">(v6-7)</span>
-3. **Law** of the King <span class="ref">(v8-9)</span>
+[James 2:8-9 (NIV) (p.3/3)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Paola-Beggar_with_Lyra.jpg" -->
-<span class="ref">(2:2)</span>
+<!-- .slide: <%= bg("unsplash-Ds0ZIA5gzc4-love_neighbor.jpg") %> id="outline" class="outline" -->
+## Faith that Loves Impartially
+1. **Faith** of the Poor [(v5)](# "ref")
+2. **Pride** of the Rich [(v6-7)](# "ref")
+3. **Law** of the King [(v8-9)](# "ref")
+
+---
+<!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
 Suppose a man comes into your **meeting** <br/>
 wearing a **gold** ring and **fine clothes**,
 
 and a **poor** man in **filthy** old clothes <br/>
 also comes in.
+
+[James 2:2 (NIV)](# "ref")
 
 >>>
 + *poor*: beggar, **dependent** on charity
@@ -102,22 +108,24 @@ also comes in.
   + ancient Greeks saw as morally **inferior**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
-<span class="ref">(2:5)</span>
+<!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
 Has not God **chosen** those who are <br/>
 **poor** in the eyes of the world
+
+[James 2:5a (NIV)](# "ref")
 
 >>>
 + lit.: "poor to the world"
   + according to world's **standard**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-852423-homeless.jpg" -->
-<span class="ref">(2:5)</span>
+<!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
 to be **rich in faith**
 
 and to inherit the **kingdom** <br/>
 he promised those who **love** him?
+
+[James 2:5b (NIV)](# "ref")
 
 >>>
 + *faith*: trust in God's **promises**
@@ -126,16 +134,17 @@ he promised those who **love** him?
 + *kingdom*: who did Jesus promise it to?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8GVGrjx82oo-smiling_child_chile.jpg" -->
-<span class="ref">(Mark 10:14)</span>
+<!-- .slide: <%= bg("unsplash-8GVGrjx82oo-smiling_child_chile.jpg") %> -->
 Let the **little children** come to me, <br/>
 for the **kingdom of God** belongs to such
+
+[Mark 10:14 (NIV)](# "ref")
 
 >>>
 humble self like little child
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- data-background="white" -->
 # Who is ~~successful~~
 # rich in **faith**?
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -147,20 +156,21 @@ humble self like little child
   + greater worth than **gold**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
+<!-- .slide: <%= bg("unsplash-Ds0ZIA5gzc4-love_neighbor.jpg") %> class="outline" -->
 ## Faith that Loves Impartially
-1. Faith of the Poor <span class="ref">(v5)</span>
-2. **Pride of the Rich** <span class="ref">(v6-7)</span>
-3. Law of the King <span class="ref">(v8-9)</span>
+1. Faith of the Poor [(v5)](# "ref")
+2. **Pride of the Rich** [(v6-7)](# "ref")
+3. Law of the King [(v8-9)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Moyse-Le_grand_Sanhedrin.jpg" -->
-<span class="ref">6</span>
+<!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
 But you have **dishonored** the poor. <br/>
 Is it not the rich who are **exploiting** you?
 
 Are they not the ones <br/>
 who are **dragging** you into **court**?
+
+[James 2:6 (NIV)](# "ref")
 
 >>>
 + *exploit*: lord over, assert power (dynasty) from above
@@ -168,15 +178,14 @@ who are **dragging** you into **court**?
 + *court*: legalism, assume in the **right**, seek full **punishment** of law
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Lemieux-Westboro.jpg" -->
-<span class="ref">7</span>
+<!-- .slide: <%= bg("Lemieux-Westboro.jpg") %> -->
 Are they not the ones <br/>
 who are **blaspheming** the noble **name** <br/>
 of Him to whom you belong?
 
-<div class="caption">
-(img &copy; [John Lemieux](https://www.flickr.com/photos/newdimensionfilms/4024249139), CC-BY-2.0)
-</div>
+[James 2:7 (NIV)](# "ref")
+
+[&copy; John Lemieux, CC-BY-2.0](https://www.flickr.com/photos/newdimensionfilms/4024249139 "caption")
 
 >>>
 + "the good name by which we were named"
@@ -188,15 +197,16 @@ of Him to whom you belong?
 + Westboro Baptist cult in Kansas
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
-<span class="ref">(Micah 6:8)</span>
+<!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
 What does the Lord **require** of you?
 
 To **act justly** and to **love mercy** <br/>
 and to **walk humbly** with your God.
 
+[Micah 6:8 (NIV)](# "ref")
+
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- data-background="white" -->
 ## Do I assert **power**,
 ## seek to **punish** others,
 ## or **project** slander <br/> to God's name?
@@ -206,19 +216,20 @@ and to **walk humbly** with your God.
   + **admire** those who do?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
+<!-- .slide: <%= bg("unsplash-Ds0ZIA5gzc4-love_neighbor.jpg") %> class="outline" -->
 ## Faith that Loves Impartially
-1. Faith of the Poor <span class="ref">(v5)</span>
-2. Pride of the Rich <span class="ref">(v6-7)</span>
-3. **Law of the King** <span class="ref">(v8-9)</span>
+1. Faith of the Poor [(v5)](# "ref")
+2. Pride of the Rich [(v6-7)](# "ref")
+3. **Law of the King** [(v8-9)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/Giovane-Washing_of_the_Feet.jpg" -->
-<span class="ref">8</span>
+<!-- .slide: <%= bg("Giovane-Washing_of_the_Feet.jpg") %> -->
 If you really keep  <br/>
 the **royal law** found in Scripture, <br/>
 “**Love your neighbor** as yourself,” <br/>
 you are doing right.
+
+[James 2:8 (NIV)](# "ref")
 
 >>>
 + *royal*: of the King
@@ -228,8 +239,7 @@ you are doing right.
   + set **example**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
-<span class="ref">(Rom 13:9)</span>
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 The commandments,
 
 “You shall not commit **adultery**,” <br/>
@@ -239,36 +249,41 @@ The commandments,
 
 and whatever other **command** there may be,
 
+[Romans 13:9 (NIV) (p.1/2)](# "ref")
+
 >>>
 + Keep track of all the **rules**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-2PODhmrvLik-heart_sunset.jpg" -->
-<span class="ref">(Rom 13:10)</span>
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 are summed up in this one command: <br/>
 “**Love your neighbor as yourself**.”
 
 Love does **no harm** to a neighbor. <br/>
 Therefore love is the **fulfillment** of the law.
 
+[Romans 13:10 (NIV) (p.2/2)](# "ref")
+
 >>>
 + **Greatest** commandment?
   + Love **God**, love **others**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-fgmf2Eyrwm4-bible.jpg" -->
-<span class="ref">12</span>
+<!-- .slide: <%= bg("unsplash-fgmf2Eyrwm4-bible.jpg") %> -->
 **Speak** and **act** as those who will be judged <br/>
-by the **law** that gives **freedom**
+by the **law** that gives **freedom** ...
+
+[James 2:12 (NIV)](# "ref")
 
 >>>
 + judgment w/o mercy on those
   + who have not been merciful
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DLwUVlzrP0Q-waves_rocks.jpg" -->
-<span class="ref">13</span>
+<!-- .slide: <%= bg("unsplash-DLwUVlzrP0Q-waves_rocks.jpg") %> -->
 **Mercy** triumphs over **judgment**!
+
+[James 2:13 (NIV)](# "ref")
 
 >>>
 + legalism futile, endless
@@ -276,14 +291,15 @@ by the **law** that gives **freedom**
 + objective: mercy
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # If I want <br/> **God's** mercy,
 # do I **show** mercy?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" -->
-<span class="ref">(Rom 13:10)</span><br/>
+<!-- .slide: <%= bg("unsplash-Ds0ZIA5gzc4-love_neighbor.jpg") %> -->
 Therefore **love** is the **fulfillment** of the law.
 
+[Romans 13:10 (NIV)](# "ref")
+
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Ds0ZIA5gzc4-love_neighbor.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-Ds0ZIA5gzc4-love_neighbor.jpg") %> class="empty" -->
