@@ -7,7 +7,7 @@
 + love all people **equally**
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Who is **successful**?
 
 <div class="imgbox"><div>
@@ -144,7 +144,7 @@ for the **kingdom of God** belongs to such
 humble self like little child
 
 ---
-<!-- data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Who is ~~successful~~
 # rich in **faith**?
 <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -206,7 +206,7 @@ and to **walk humbly** with your God.
 [Micah 6:8 (NIV)](# "ref")
 
 ---
-<!-- data-background="white" -->
+<!-- .slide: data-background="white" -->
 ## Do I assert **power**,
 ## seek to **punish** others,
 ## or **project** slander <br/> to God's name?
