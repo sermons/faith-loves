@@ -22,9 +22,10 @@
 </div></div>
 
 >>>
-+ Bill Gates $81B
-+ Rupert Murdoch $12B (Wendi Deng)
-+ Donald Trump $3.7B
++ Bill Gates $91B
++ Rupert Murdoch $15B
+  + (Wendi Deng, m. 1999-2013)
++ Donald Trump $3B
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
