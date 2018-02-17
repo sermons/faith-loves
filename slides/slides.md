@@ -120,6 +120,18 @@ Has not God **chosen** those who are <br/>
   + according to world's **standard**
 
 ---
+God has chosen the **foolish** things of the world <br>
+to shame the **wise**,
+
+and God has chosen the **weak** things of the world  <br>
+to shame the things which are **strong**,
+
+... [29](# "ref")
+so that no man may **boast** before God.
+
+[1 Corinthians 1:27, 29 (ESV)](# "ref")
+
+---
 <!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
 to be **rich in faith**
 
