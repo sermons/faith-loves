@@ -118,6 +118,7 @@ Has not God **chosen** those who are <br/>
 >>>
 + lit.: "poor to the world"
   + according to world's **standard**
+  + reject world's **pursuits**
 
 ---
 God has chosen the **foolish** things of the world <br>
