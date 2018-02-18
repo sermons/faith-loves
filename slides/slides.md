@@ -272,6 +272,15 @@ and to **walk humbly** with your God.
 
 [Micah 6:8 (NIV)](# "ref")
 
+>>>
++ abuse **power** &rArr; 
+  + submit to **God's justice**
++ seek to **punish** &rArr;
+  + seek to show **mercy**
+  + as God has to us
++ bring **slander** to God &rArr;
+  + **emulate** His love, in humility
+
 ---
 <!-- .slide: data-background="white" -->
 ## Do I assert **power**,
@@ -288,6 +297,12 @@ and to **walk humbly** with your God.
 1. Faith of the Poor [(v5)](# "ref")
 2. Pride of the Rich [(v6-7)](# "ref")
 3. **Law of the King** [(v8-9)](# "ref")
+
+>>>
++ not just that it's a **command** of God
++ love is the whole **point** of all the law
++ learning what love is
++ learning to love
 
 ---
 <!-- .slide: <%= bg("Giovane-Washing_of_the_Feet.jpg") %> -->
