@@ -94,6 +94,19 @@ by the law as **lawbreakers**.
 3. **Law** of the King [(v8-9)](# "ref")
 
 ---
+My brothers, show no **partiality** <br>
+as you hold the **faith** in our Lord Jesus Christ
+
+[James 2:1 (ESV)](# "ref")
+
+>>>
++ remember, James is to **Christians**
+  + Christ in **glory** has called us
+  + journey growth in **trusting** Him
++ "partiality"/favouritism (ἐν προσωπολημψίαις):
+  + accept/esteem acc to **face**
+
+---
 <!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
 Suppose a man comes into your **meeting** <br/>
 wearing a **gold** ring and **fine clothes**,
