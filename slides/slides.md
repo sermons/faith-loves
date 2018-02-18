@@ -22,12 +22,12 @@
 </div></div>
 
 >>>
-+ who do you think of? 
++ who do you think of?
 + Bill Gates $91B
 + Rupert Murdoch $15B
   + (Wendi Deng, m. 1999-2013)
 + Donald Trump $3B
-+ how do we **evaluate** people? 
++ how do we **evaluate** people?
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
@@ -136,6 +136,8 @@ also comes in.
 + "poor": beggar, **dependent** on charity
   + vs **hardworking** but poor
   + ancient Gr saw as morally **inferior**
++ e.g., high-school fellowship
+  + acquaintance who rarely attended
 
 ---
 <!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
