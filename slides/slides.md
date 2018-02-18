@@ -4,7 +4,7 @@
 
 >>>
 + *impartially*: without **favouritism**
-+ love all people **equally**
++ see others how **God** sees
 
 ---
 <!-- .slide: data-background="white" -->
@@ -104,9 +104,13 @@ also comes in.
 [James 2:2 (NIV)](# "ref")
 
 >>>
-+ *poor*: beggar, **dependent** on charity
++ "meeting": synagogue, church
+  + visitor **or** regular attendee!
++ "clothes": as repr economic **class**
+  + **ext** assessment of person
++ "poor": beggar, **dependent** on charity
   + vs **hardworking** but poor
-  + ancient Greeks saw as morally **inferior**
+  + ancient Gr saw as morally **inferior**
 
 ---
 <!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
@@ -118,18 +122,26 @@ Has not God **chosen** those who are <br/>
 >>>
 + lit.: "poor to the world"
   + according to world's **standard**
++ God's **election**: in His judgment
+  + what He deemed **good**
 
 ---
 God has chosen the **foolish** things of the world <br>
 to shame the **wise**,
 
-and God has chosen the **weak** things of the world  <br>
+and God has chosen <br>
+the **weak** things of the world  <br>
 to shame the things which are **strong**,
 
 ... [29](# "ref")
 so that no man may **boast** before God.
 
 [1 Corinthians 1:27, 29 (ESV)](# "ref")
+
+>>>
++ to demo God's **power**
++ which is **our** strength
+  + as we trust Him in **faith**:
 
 ---
 <!-- .slide: <%= bg("pixabay-852423-homeless.jpg") %> -->
@@ -141,15 +153,16 @@ he promised those who **love** him?
 [James 2:5b (NIV)](# "ref")
 
 >>>
-+ *faith*: trust in God's **promises**
++ "faith": trust in God's **promises**
   + **depend** on God's grace
   + and **love** Him for faithfulness
-+ *kingdom*: who did Jesus promise it to?
++ "kingdom": who did **Jesus** promise it to?
 
 ---
 <!-- .slide: <%= bg("unsplash-8GVGrjx82oo-smiling_child_chile.jpg") %> -->
-Let the **little children** come to me, <br/>
-for the **kingdom of God** belongs to such
+Let the **little children** come to me, <br>
+for the **kingdom of God** <br>
+belongs to such as these
 
 [Mark 10:14 (NIV)](# "ref")
 
@@ -186,9 +199,13 @@ who are **dragging** you into **court**?
 [James 2:6 (NIV)](# "ref")
 
 >>>
-+ *exploit*: lord over, assert power (dynasty) from above
-+ *drag*: as a net of fish, unwillingly
-+ *court*: legalism, assume in the **right**, seek full **punishment** of law
++ "exploit": assert **power** from above
+  + lord over, **superior** position
++ "drag": powerful **compulsion**
+  + unwillingly, as **net** of fish (Ac21:30 Ephesus)
+  + or strong **attraction** (Jn6:44 Christ)
++ "court": legalism, assume in the **right**
+  + seek full **punishment** of law
 
 ---
 <!-- .slide: <%= bg("Lemieux-Westboro.jpg") %> -->
@@ -207,7 +224,7 @@ of Him to whom you belong?
   + but **slander** in action
   + **projected** testimony before others
 + or: **mock** Christians, **attack** God
-+ Westboro Baptist cult in Kansas
++ e.g. Westboro Baptist cult in Kansas
 
 ---
 <!-- .slide: <%= bg("unsplash-pZVi92S-ZMs-hands_raised.jpg") %> -->
