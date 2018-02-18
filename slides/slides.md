@@ -22,10 +22,12 @@
 </div></div>
 
 >>>
++ who do you think of? 
 + Bill Gates $91B
 + Rupert Murdoch $15B
   + (Wendi Deng, m. 1999-2013)
 + Donald Trump $3B
++ how do we **evaluate** people? 
 
 ---
 <!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
@@ -34,7 +36,10 @@
 + Demands a **Change** of Heart [(1:19-25)](# "ref")
 + Loves **Impartially** [(2:5-9)](# "ref")
 
+[###](#/outline "secret")
+
 >>>
++ part 3/10 in James
 + Stands the *Test*:
   + **Joy** in Trials
   + **Wisdom** Given Generously
@@ -92,6 +97,13 @@ by the law as **lawbreakers**.
 1. **Faith** of the Poor [(v5)](# "ref")
 2. **Pride** of the Rich [(v6-7)](# "ref")
 3. **Law** of the King [(v8-9)](# "ref")
+
+>>>
++ redefine **success**
++ **we** are the rich: **repent**
++ what it means to be a committed **Christian**:
+  + not about being **right**
+  + but being **Christlike** in love
 
 ---
 <!-- .slide: <%= bg("Paola-Beggar_with_Lyra.jpg") %> -->
