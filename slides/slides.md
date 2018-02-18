@@ -152,7 +152,10 @@ so that no man may **boast** before God.
 [1 Corinthians 1:27, 29 (ESV)](# "ref")
 
 >>>
-+ to demo God's **power**
++ beggar is **dependent**
+  + not self-sufficient
++ learns **grace** + gratitude
+  + demonstrates God's **power**
 + which is **our** strength
   + as we trust Him in **faith**:
 
@@ -166,6 +169,8 @@ he promised those who **love** him?
 [James 2:5b (NIV)](# "ref")
 
 >>>
++ what **use** is faith?
+  + does it pay the **bills**?
 + "faith": trust in God's **promises**
   + **depend** on God's grace
   + and **love** Him for faithfulness
@@ -180,7 +185,9 @@ belongs to such as these
 [Mark 10:14 (NIV)](# "ref")
 
 >>>
-humble self like little child
++ not those who are **powerful**
+  + hard-working, educated
++ but **humble** like little child
 
 ---
 <!-- .slide: data-background="white" -->
@@ -189,8 +196,6 @@ humble self like little child
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
 >>>
-+ what **use** is faith?
-  + does it pay the **bills**?
 + inherit **kingdom** of God
   + greater worth than **gold**
 
@@ -200,6 +205,11 @@ humble self like little child
 1. Faith of the Poor [(v5)](# "ref")
 2. **Pride of the Rich** [(v6-7)](# "ref")
 3. Law of the King [(v8-9)](# "ref")
+
+>>>
++ abuse of **power**
++ demand **punishment** of others
++ **project** slander of God
 
 ---
 <!-- .slide: <%= bg("Moyse-Le_grand_Sanhedrin.jpg") %> -->
@@ -231,6 +241,7 @@ of Him to whom you belong?
 [&copy; John Lemieux, CC-BY-2.0](https://www.flickr.com/photos/newdimensionfilms/4024249139 "caption")
 
 >>>
++ "blaspheme": speak evil of
 + "the good name by which we were named"
   + (Ac15:17) Gentiles who bear My Name
 + either: **claim** Christian
