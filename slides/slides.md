@@ -30,7 +30,7 @@
 + how do we **evaluate** people?
 
 ---
-<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-6cY-FvMlmkQ-mtn_cross.jpg") %> id="review" class="outline" -->
 ## James: **Keep the Faith**
 + Stands the **Test** [(1:2-12)](# "ref")
 + Demands a **Change** of Heart [(1:19-25)](# "ref")
@@ -275,7 +275,7 @@ and to **walk humbly** with your God.
 [Micah 6:8 (NIV)](# "ref")
 
 >>>
-+ abuse **power** &rArr; 
++ abuse **power** &rArr;
   + submit to **God's justice**
 + seek to **punish** &rArr;
   + seek to show **mercy**
