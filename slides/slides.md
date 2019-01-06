@@ -23,8 +23,8 @@
 
 >>>
 + who do you think of?
-+ Bill Gates $91B
-+ Rupert Murdoch $15B
++ Bill Gates $94B
++ Rupert Murdoch $19B
   + (Wendi Deng, m. 1999-2013)
 + Donald Trump $3B
 + how do we **evaluate** people?
