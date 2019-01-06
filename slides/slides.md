@@ -154,6 +154,7 @@ Has not God **chosen** those who are <br/>
   + what He deemed **good**
 
 ---
+<!-- .slide: <%= bg("unsplash-VNjNtdu0yCw-kids_hug.jpg") %> -->
 God has chosen the **foolish** things of the world <br>
 to shame the **wise**,
 
