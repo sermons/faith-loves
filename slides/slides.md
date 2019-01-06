@@ -382,8 +382,7 @@ by the **law** that gives **freedom** ...
 
 ---
 <!-- .slide: data-background="white" -->
-# If I want <br/> **God's** mercy,
-# do I **show** mercy?
+# If I want **God** <br> to show mercy, <br> do **I** show mercy?
 
 ---
 <!-- .slide: <%= bg("unsplash-Ds0ZIA5gzc4-love_neighbor.jpg") %> -->
