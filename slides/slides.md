@@ -377,7 +377,7 @@ by the **law** that gives **freedom** ...
 + maybe the poorly-dressed has been out of work
 + the one with alcohol breath wants to ease the pain
 + the crazy bloodshot eyes seeks healing from a broken home
-+ they come to church for healing + hope
++ they come to church for healing + hope 
 + they cannot see Christ, but
 + they can see us: Christ's love through our eyes
 
