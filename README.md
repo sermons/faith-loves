@@ -1,7 +1,7 @@
 # Faith that Loves Impartially (3/10)
 ## James 2:5-9
 
-[![Travis-CI build status](https://api.travis-ci.org/sermons/faith-loves.svg)](https://travis-ci.org/github/sermons/faith-loves)
+[![Travis-CI build status](https://api.travis-ci.com/sermons/faith-loves.svg)](https://travis-ci.com/github/sermons/faith-loves)
 [![Node dependencies](https://david-dm.org/sermons/faith-loves.svg)](https://david-dm.org/sermons/faith-loves)
 [![Node dev status](https://david-dm.org/sermons/faith-loves/dev-status.svg)](https://david-dm.org/sermons/faith-loves?type=dev)
 
